@@ -26,9 +26,9 @@ crop-weed-detection/
 pip install -r requirements.txt
 ```
 
-## ▶️ Run Training
-```bash
-python src/training.py
+## ▶️ Run Training and Detect 
+```bashc
+python src/CropAndWeedDetection.py
 ```
 
 ## 📊 Output
